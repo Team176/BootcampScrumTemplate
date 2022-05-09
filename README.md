@@ -51,7 +51,7 @@ Takım 176
 
 
 
-- Sprint Board Update Puanlama: 50p
+- Sprint Board Update Puanlama: 80p
 
 ### Sprint Review
 
