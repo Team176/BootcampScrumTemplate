@@ -47,7 +47,11 @@ Takım 176
 ## Sprint Board Update 
 
 - Sprint Board Update Screenshootları:
-- Sprint Board Update Puanlama:
+![image](https://user-images.githubusercontent.com/104406351/167462081-cf826b2f-f9d9-4049-a1da-55481d349fe6.png)
+
+
+
+- Sprint Board Update Puanlama: 50p
 
 ### Sprint Review
 
