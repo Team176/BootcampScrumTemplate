@@ -35,3 +35,22 @@ Takım 176
 - 7+ üzeri kullanıcılar
 - İlişki konusunda tavsiye almak veya vermek isteyen kullanıcılar
 
+
+# Sprint Review
+
+  Alınan Kararlar:
+  
+- Kullanıcı kayıdı oluşturulması için kayıt ekranı eklenmesi.
+- Kullanıcı kaydı ve şifresi girilecek bir giriş ekranı eklenmesi.
+- Giriş ekranına girildikten sonra açılacak olan anasayfa ekranı eklenmesi.
+- Anasayfa ekranına eklenecek olan soru cevap kısımları
+- Konuların kategorize edilmesi
+- Sorular ve cevaplar için buton eklenmesi (popüler yorumlar için)
+
+
+# Sprint Retropective
+
+- Takım içerisinde, projenin belirlenmesi ve ana hat dizaynı konusu tartışılmıştır.
+- Takım içerisinde görevlendirmeler dağıtılmıştır.
+- Daily scrum takibi kesinleştirilmiştir.
+
