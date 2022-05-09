@@ -45,7 +45,7 @@ Takım 176
 ## Daily Scrum
 
 ## Sprint Board Update 
-
+https://miro.com/app/board/uXjVO2BivNM=/?share_link_id=812490798104
 - Sprint Board Update Screenshootları:
 ![image](https://user-images.githubusercontent.com/104406351/167462081-cf826b2f-f9d9-4049-a1da-55481d349fe6.png)
 
