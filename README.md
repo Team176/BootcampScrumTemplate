@@ -42,7 +42,12 @@ Takım 176
 
 # Sprint 1
 ----------------------------------------------------------------------------------------------------------------------------------------
+## Daily Scrum
 
+## Sprint Board Update 
+
+- Sprint Board Update Screenshootları:
+- Sprint Board Update Puanlama:
 
 ### Sprint Review
 
