@@ -71,3 +71,40 @@ https://miro.com/app/board/uXjVO2BivNM=/?share_link_id=812490798104
 - Takım içerisinde görevlendirmeler dağıtılmıştır.
 - Daily scrum takibi kesinleştirilmiştir.
 
+
+# Sprint 2
+----------------------------------------------------------------------------------------------------------------------------------------
+
+## Daily Scrum
+
+Discord üzerinden yapılmıştır.
+
+## Sprint Board Update 
+
+![sprint board update](https://user-images.githubusercontent.com/104406351/169893785-e61a9be3-c124-4768-8aad-4f7c0ba936de.PNG)
+
+## Ürün Logosu Tasarımı
+
+
+![1-02](https://user-images.githubusercontent.com/104406351/169894037-65d653c4-9db6-4239-920d-7b8099ef3401.jpg)
+![2-01](https://user-images.githubusercontent.com/104406351/169894041-d540cb74-65de-47bd-8537-0f4c83ec8ceb.png)
+![2-02](https://user-images.githubusercontent.com/104406351/169894044-f242cefb-8b83-4052-9bb8-25fc3f384beb.png)
+![1-01](https://user-images.githubusercontent.com/104406351/169894045-a5733015-877c-47d9-914f-a33195214972.jpg)
+
+
+### Sprint Review
+
+  Alınan Kararlar:
+  
+- Ürün logosu için ortak karara varıldı.
+
+### Sprint Retropective
+
+- Giriş ekranı tasarımı başlamıştır.
+- Takım içerisinde görevlendirmeler dağıtılmıştır.
+
+
+
+
+
+
